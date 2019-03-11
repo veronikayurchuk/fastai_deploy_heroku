@@ -1,7 +1,9 @@
-How to train a simple model using FastAI framework and deploy the model to heroku using Docker
+# How to train a simple model using FastAI framework and deploy the model to heroku using Docker #
 
 
-The future view of the app:
-![Input](/images/input_example.jpg)
-![Output](/images/output_example.jpg)
+## Input tab: ##
+<img src="/images/input_example.jpg" width="700" height="460">
+
+## Output tab: ##
+<img src="/images/output_example.jpg" width="700" height="510">
 
